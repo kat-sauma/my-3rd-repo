@@ -15,5 +15,5 @@ __no__
 
 | Coming      | Going |
 | ----------- | ----------- |
-| hi      | how are you?       |
-| bye   | until next time.        |
+| hi      | bye       |
+| how are you?   | until next time.        |
