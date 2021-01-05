@@ -2,18 +2,18 @@
 terminal commands &amp; Github Lab
 
 
-# greetings
-## we may use
-### whether _coming_ or __going__
+# der Grüße
+## wir können verwenden
+### ob _kommen_ oder __gehen__
 
 
-1) hi
-1) bye
-1) how are you?
-1) until next time
+1) hallo
+1) tchüß
+1) Wie geht es Ihnen?
+1) Auf wieder sehen.
 
 
 | Coming      | Going |
 | ----------- | ----------- |
-| hi      | bye       |
-| how are you?   | until next time.        |
+| hallo      | tchüß       |
+| Wie Geht es Ihnen?   | Auf wieder sehen.        |
